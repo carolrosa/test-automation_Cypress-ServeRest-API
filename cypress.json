@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://serverest.dev/",
+    "testFiles": "**/*.spec*",
+    "defaultCommandTimeout": 10000,
+    "video": false
+}

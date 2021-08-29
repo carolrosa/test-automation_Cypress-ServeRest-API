@@ -1,0 +1,17 @@
+{
+  "name": "test-automation_serverest_api",
+  "version": "0.0.1",
+  "description": "Desafio API - automacao com cypress - maispraTI",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "author": "Caroline Rosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3",
+    "joi": "^17.4.2"
+  }
+}
